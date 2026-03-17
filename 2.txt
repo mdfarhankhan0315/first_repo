@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 md
-farhan
-khan
-=======
-farhan
-
->>>>>>> parent of 95686cb (1. md)
